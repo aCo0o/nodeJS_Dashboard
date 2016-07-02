@@ -15,7 +15,7 @@ Ever getting borred of starting node Servers the boring way?
 ==
 
 
-![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/ui.jpg?raw=true "nodeJS Dashboard")
+![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/UI.jpg?raw=true "nodeJS Dashboard")
 
 
 
@@ -26,5 +26,5 @@ Ever getting borred of starting node Servers the boring way?
 
 Create a server shortcut to a folder like this
     
-![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/UIfiles.jpg?raw=true "nodeJS Dashboard")
+![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/UIs.jpg?raw=true "nodeJS Dashboard")
       
