@@ -11,7 +11,7 @@ Ever getting borred of starting node Servers the boring way?
 1. Just click the "Server File" button and locate you nodeJS application file
 2. Then click "Start server"
 
-Enjoy
+
 
 Keep me going :)
 
