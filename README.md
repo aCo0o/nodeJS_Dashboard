@@ -11,6 +11,14 @@ Ever getting borred of starting node Servers the boring way?
 1. Just click the "Server File" button and locate you nodeJS application file
 2. Then click "Start server"
 
+Enjoy
+
+Keep me going :)
+
+
+[Make a Donation](https://www.paypal.me/ACincarevic) 
+
+
 
 ==
 
@@ -19,12 +27,3 @@ Ever getting borred of starting node Servers the boring way?
 
 
 
-==
-
-* Got many server files? 
-
-
-Create a server shortcut to a folder like this
-    
-![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/UIs.jpg?raw=true "nodeJS Dashboard")
-      
