@@ -37,8 +37,9 @@ Keep me going :)
 Changelog:
 
     1.0 - Offical release
+           (2016-07-01) 
     
-    2.0 
+    1.1 
       - Added MongoDB start (mongod.exe) to tools in meny
       - Added comboBox(Dropdown) for recent used files.
       - Moved (Get nodeJS version) to tools in meny
