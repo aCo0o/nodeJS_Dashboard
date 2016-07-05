@@ -1,18 +1,23 @@
 # nodeJS Dashboard
 
 
-Ever getting borred of starting node Servers the boring way?
+###Ever getting tierd of starting nodeJS servers the boring way?
 
 
 
-* Time for the Fast Way.
+##### - Time for the Fast Way.
 
-1. Just click the "Server File" button and locate you nodeJS application file
-2. Then click "Start server"
+1. Just click the "**Server File**" button and locate you nodeJS application file
+2. Then click "**Start server**"
+
+---
 
 
+##### New in v1.1
 
 
+- mongoDB - mongod.exe instance integrated (in Tools)
+- Dropdown for recent used server files
 
 ==
         
@@ -42,6 +47,9 @@ Changelog:
     1.1 
       - Added MongoDB start (mongod.exe) to tools in meny
       - Added comboBox(Dropdown) for recent used files.
+      - Added a visal directory label 
       - Moved (Get nodeJS version) to tools in meny
+      - Removed filename info textbox
+      
 
 
