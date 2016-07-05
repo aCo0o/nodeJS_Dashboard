@@ -24,7 +24,7 @@ Keep me going :)
 ==
 
 
-![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/UI.jpg?raw=true "nodeJS Dashboard")
+![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/ui1.1.jpg?raw=true "nodeJS Dashboard")
 
 
 
