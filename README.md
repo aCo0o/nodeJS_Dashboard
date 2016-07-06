@@ -39,14 +39,25 @@ Like it?   Keep me going
 
 ==
 
+To get mongoDB to work you **need to add it to the "PATH" Environment variable** - [Help](http://www.acemyskills.com/install-configure-and-start-mongodb-in-windows/)
+
+_C:\Program Files\MongoDB\Server\3.X\bin_
+
+
+
+
+
+
 Changelog
+
+
 
     1.0 - Official release
            (2016-07-01) 
     
     1.1 - (2016-07-05)
       - Added MongoDB start (mongod.exe) to tools in meny
-      - Added comboBox(Dropdown) for recent used server files.
+      - Added comboBox(Dropdown) for recent used server files
       - Added a visal directory label 
       - Moved (Get nodeJS version) to tools in meny
       - Removed filename info textbox
