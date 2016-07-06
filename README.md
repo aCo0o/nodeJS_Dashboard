@@ -5,10 +5,10 @@
 
 
 
-##### - Time for the Fast Way.
+##### Time for the Fast Way.
 
-1. Just click the "**Server File**" button and locate you nodeJS application file
-2. Then click "**Start server**"
+1. Just click the "**Server File**" button and locate you nodeJS server file
+2. Then click "**Start Server**"
 
 ---
 
@@ -21,7 +21,7 @@
 
 ==
         
-Keep me going :)
+Like it?   Keep me going
 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFMQEBTS2VH4U)
@@ -29,7 +29,7 @@ Keep me going :)
 
 
 
-==
+
 
 
 ![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/ui1.1.jpg?raw=true "nodeJS Dashboard")
@@ -39,14 +39,14 @@ Keep me going :)
 
 ==
 
-Changelog:
+Changelog
 
-    1.0 - Offical release
+    1.0 - Official release
            (2016-07-01) 
     
-    1.1 
+    1.1 - (2016-07-05)
       - Added MongoDB start (mongod.exe) to tools in meny
-      - Added comboBox(Dropdown) for recent used files.
+      - Added comboBox(Dropdown) for recent used server files.
       - Added a visal directory label 
       - Moved (Get nodeJS version) to tools in meny
       - Removed filename info textbox
