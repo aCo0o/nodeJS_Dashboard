@@ -1,7 +1,7 @@
 # nodeJS Dashboard
 
 
-###Ever getting tierd of starting nodeJS servers the boring way?
+###Ever getting tierd of starting nodeJS servers?
 
 
 
