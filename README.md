@@ -1,18 +1,18 @@
 # nodeJS Dashboard
 
-<b>NodeJS, NPM, MongoDB Toolkit</b>
+<b>All-In-One NodeJS, NPM, MongoDB program</b>
 
+---
 
-<p> 
-Start servers on various ways
-Install NPM Packages without typing
-</p>
-
-
-
-
-        
-Like it?   Keep me going
+##### New features in v2 (under development)
+        * New integrated options:
+          - Start with Node, Nodemon or PM2 
+        * Tools added :
+          - NPM GUI
+          - Start mongod.exe instance 
+---
+   
+Support this project! - Keep me going
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFMQEBTS2VH4U)
 
@@ -33,15 +33,7 @@ Like it?   Keep me going
 1. Just click the "**Server File**" button and locate you nodeJS server file
 2. Then click "**Start Server**"
 
----
 
-##### New features in v2 (under development)
-        * New integrated options:
-          - Start with Node, Nodemon or PM2 
-        * Tools added :
-          - NPM-Installer UI
-          - Start mongod.exe instance 
----
 
 
 ==
