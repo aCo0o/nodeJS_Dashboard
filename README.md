@@ -1,28 +1,18 @@
 # nodeJS Dashboard
 
-
-###Ever getting tierd of starting nodeJS servers?
-
+<b>NodeJS, NPM, MongoDB Toolkit</b>
 
 
-##### Time for the Fast Way.
-
-1. Just click the "**Server File**" button and locate you nodeJS server file
-2. Then click "**Start Server**"
-
----
+<p> 
+Start servers on various ways
+Install NPM Packages without typing
+</p>
 
 
-##### New in v1.1
 
 
-- mongoDB - mongod.exe instance integrated (in Tools)
-- Dropdown for recent used server files
-
-==
         
 Like it?   Keep me going
-
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFMQEBTS2VH4U)
 
@@ -35,6 +25,23 @@ Like it?   Keep me going
 ![Alt text](https://github.com/aCo0o/nodeJS_Dashboard/blob/master/ui1.1.jpg?raw=true "nodeJS Dashboard")
 
 
+
+
+
+##### Usage
+
+1. Just click the "**Server File**" button and locate you nodeJS server file
+2. Then click "**Start Server**"
+
+---
+
+##### New features in v2 (under development)
+        * New integrated options:
+          - Start with Node, Nodemon or PM2 
+        * Tools added :
+          - NPM-Installer UI
+          - Start mongod.exe instance 
+---
 
 
 ==
